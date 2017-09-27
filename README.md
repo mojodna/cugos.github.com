@@ -31,7 +31,7 @@ Now, open `http://localhost:4000` in your web browser and you should see a local
 
 To learn how to add pages to the site see [the wiki](https://github.com/cugos/cugos.github.com/wiki/Adding-New-Posts)
 
-##Attribution
+## Attribution
 
 * [Homepage Mountains](https://flic.kr/p/5UJi5S) photo by [Jeff P](https://www.flickr.com/photos/jeffpang/) | CC Attribution 2.0 Generic[*](https://creativecommons.org/licenses/by/2.0/)
 * Group Shots by Aaron Racicot
